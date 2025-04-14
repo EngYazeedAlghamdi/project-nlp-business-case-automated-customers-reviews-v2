@@ -1,0 +1,87 @@
+Device set to use cuda:0
+<ipython-input-86-c44f77c1a8f3>:15: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['cluster'] = df['cluster'].astype(int)
+
+==================================================
+ Cluster 0 Summary
+==================================================
+
+ Top 3 products:
+- Fire HD 8 Tablet with Alexa, 8 HD Display, 16 GB, Tangerine - with Special Offers (Rating: 3.56, Reviews: 200.0)
+- All-New Fire HD 8 Tablet, 8 HD Display, Wi-Fi, 16 GB - Includes Special Offers, Black (Rating: 3.66, Reviews: 126.0)
+- Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Pink Kid-Proof Case (Rating: 3.32, Reviews: 121.0)
+
+ Worst product:
+- Amazon Kindle Replacement Power Adapter (Fits Latest Generation Kindle and Kindle DX) For shipment in the U.S only (Rating: 1.33)
+
+ Summary of reviews:
+The security, Webroot Anywhere, that was included was impossible to install. I tried calling Geek Squad 4 times for support and was disconnected EVERY time. Decent somewhat slow. Netflix freezes up at times.
+--------------------------------------------------
+
+==================================================
+ Cluster 1 Summary
+==================================================
+
+ Top 3 products:
+- AmazonBasics AAA Performance Alkaline Batteries (36 Count) (Rating: 2.86, Reviews: 1432.0)
+- AmazonBasics AA Performance Alkaline Batteries (48 Count) - Packaging May Vary (Rating: 2.93, Reviews: 650.0)
+- AmazonBasics Nylon CD/DVD Binder (400 Capacity) (Rating: 3.50, Reviews: 2.0)
+
+ Worst product:
+- AmazonBasics AAA Performance Alkaline Batteries (36 Count) (Rating: 2.86)
+
+ Summary of reviews:
+These do not hold the amount of high power juice like energizer or duracell, but they are half the price. Can't believe I didn't start buying them sooner! The packages are large and the price is great too.
+--------------------------------------------------
+
+==================================================
+ Cluster 2 Summary
+==================================================
+
+ Top 3 products:
+- Amazon Echo Show Alexa-enabled Bluetooth Speaker with 7" Screen (Rating: 3.67, Reviews: 76.0)
+- Amazon Tap Smart Assistant Alexaenabled (black) Brand New (Rating: 3.38, Reviews: 61.0)
+- Amazon - Echo Plus w/ Built-In Hub - Silver (Rating: 4.22, Reviews: 50.0)
+
+ Worst product:
+- Amazon Echo (1st Generationcertified) Color:White Free Shipping (Rating: 2.00)
+
+ Summary of reviews:
+Well designed, good sound, has everything Alexa has plus the HD video. Always ready with answers with associated video or text if applicable. Can show movie trailers, can also watch Amazon video. Excellent on-demand security video with Amazon compatible cameras.
+--------------------------------------------------
+
+==================================================
+ Cluster 3 Summary
+==================================================
+
+ Top 3 products:
+- Kindle Voyage E-reader, 6 High-Resolution Display (300 ppi) with Adaptive Built-in Light, PagePress Sensors, Wi-Fi - Includes Special Offers (Rating: 3.89, Reviews: 37.0)
+- Kindle E-reader - White, 6 Glare-Free Touchscreen Display, Wi-Fi - Includes Special Offers (Rating: 3.81, Reviews: 27.0)
+- Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case (Rating: 3.52, Reviews: 21.0)
+
+ Worst product:
+- Oem Amazon Kindle Power Usb Adapter Wall Travel Charger Fire/dx/+micro Usb Cable (Rating: 1.00)
+
+ Summary of reviews:
+It does its job but I would buy one which the screen is brighter. There are times that it's difficult to read because screen is not too bright. Easy to use and navigate, purchasing books is fast and simple. I love the fact that I can password protect this device.
+--------------------------------------------------
+
+==================================================
+ Cluster 4 Summary
+==================================================
+
+ Top 3 products:
+- Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Blue Kid-Proof Case (Rating: 3.36, Reviews: 163.0)
+- Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case (Rating: 3.21, Reviews: 121.0)
+- All-New Fire HD 8 Tablet, 8 HD Display, Wi-Fi, 16 GB - Includes Special Offers, Black (Rating: 3.41, Reviews: 78.0)
+
+ Worst product:
+- All-New Fire HD 8 Tablet with Alexa, 8 HD Display, 32 GB, Marine Blue - with Special Offers (Rating: 3.00)
+
+ Summary of reviews:
+I highly recommend this tablet for a toddler. There are plenty of learning activities that engage little minds. There's not much difference in the regular Kindle. Wait till it goes on sale.
+--------------------------------------------------
